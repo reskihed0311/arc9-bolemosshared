@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\reshed\atts\optics\T_1P_A_S_APCompM4_D"
+	
+	"$metal" "1"
+	"$roughnessmultiplier" ".5"
+	
+	
+	"$fuzz" "1"
+	"$fuzzmultiplier" ".2"
+	
+	// "$srgbtint" "[2 2 2]"
+}
